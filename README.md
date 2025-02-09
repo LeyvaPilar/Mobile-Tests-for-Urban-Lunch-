@@ -20,6 +20,11 @@ El presente documento detalla los resultados de las pruebas realizadas a la apli
   - Resolución: 1080 x 1920 pixels
   - Densidad: 480dpi
   - RAM: 2GB
+ 
+## Emulador
+<a href="https://github.com/LeyvaPilar/Mobile-Tests-for-Urban-Lunch-/blob/d19cad06e87eae3fc4dcfe3e99d157445ae56aab/8%20(1).png" target="_blank">
+  <img src="https://github.com/LeyvaPilar/Mobile-Tests-for-Urban-Lunch-/blob/d19cad06e87eae3fc4dcfe3e99d157445ae56aab/8%20(1).png?raw=true" alt="Emulador">
+</a>
 
 ### Alcance de las Pruebas
 
